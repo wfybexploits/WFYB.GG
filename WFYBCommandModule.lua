@@ -41,7 +41,7 @@ ADMIN COMMANDS:
    /removebeta <username>
    /rgivebeta <username>
    /maxprops <number>
-   /rtransferdata <fromUsername> <toUsername>
+   /rtransferdata <fromusername> <tousername>
    /kick <username> [reason]
    /kill <username>
    /ff <username>
